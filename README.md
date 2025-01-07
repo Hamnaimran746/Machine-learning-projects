@@ -27,7 +27,7 @@ To run the project, ensure the following dependencies are installed:
 ### Installation
 1. Clone the repository to your local machine or use it directly from Google Colab.
     ```
-    git clone https://github.com/yourusername/emotion-detection.git
+    https://github.com/Hamnaimran746/Machine-learning-projects.git
     ```
 2. Install the required libraries by running the following command in Google Colab:
     ```python
